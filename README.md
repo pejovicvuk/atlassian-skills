@@ -25,9 +25,9 @@ Dependencies: `curl` + `python3` — both already in the stock OpenClaw containe
 ### From ClawHub
 
 ```bash
-clawhub install viksi/jira
-clawhub install viksi/confluence
-clawhub install viksi/bitbucket
+clawhub install pejovicvuk/jira
+clawhub install pejovicvuk/confluence
+clawhub install pejovicvuk/bitbucket
 ```
 
 ### Manual
